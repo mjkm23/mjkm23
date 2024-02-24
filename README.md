@@ -1,5 +1,4 @@
 ---
-
 ### 👩‍💻 About Me
 
 - 👩‍🚀 Hi, my name is Melissa Mitchell. I'm early in my journey of transitioning to data analytics, & possibly data science, as a career. My background is mainly retail & security. I am currently studying Python & basic data analysis, while brushing up on my old math, statistics, & Excel skills. 🧮
@@ -10,5 +9,4 @@
 
 - 🎉 I cheer for the ⚾ Boston Red Sox, the 🏈 Denver Broncos, & now the 🦁 Detroit Lions. My viewing habits include a lot of police procedurals -- from drama to comedy (NCIS, FBI, Hawaii Five-O, Psych, Brooklyn Nine-Nine) -- & a lot of science fiction (Star Trek/Wars/Gate, The Expanse, BSG, Killjoys, Dark Matter). 🖖
 
-- 🚀 I recently started a new blog. So far I only have a few posts up, & they all happen to relate to AI. But I intend to write about other subjects as well. Check it out if you like:
-https://epiphanista.blog/ ✨
+- 🚀 I recently started a new blog. So far I only have a few posts up. Check it out if you like: https://epiphanista.blog ✨
